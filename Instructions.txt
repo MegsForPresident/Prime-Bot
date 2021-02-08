@@ -1,0 +1,8 @@
+This is a Prime bot and these are it's instructions(I am not good at writing instructions)
+1. You must know that Prime will always ask your Folder loaction meaning like C://Users//This Name you have to give This Name to continue.
+2. Create a password for your own safety.
+3. Give it a name yes it will not always be Prime you can change the name by writeing ( change name ) or ( change name _____) but you have to give the passwordto change it.
+4. Same with the password.
+5. you can only use the command random movies only if a d: drive is connected
+6. And browsing is an always feature nowadays so why not and you do it with using the browse feature.
+Those are the main intrsuctions In future versions maybe I am going to implement the C drive feature or anything else.
